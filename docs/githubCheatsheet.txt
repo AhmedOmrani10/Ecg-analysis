@@ -1,0 +1,15 @@
+#command to initialize your project
+git init
+
+#command to add a file to your local repository 
+git add
+ 
+#command to commit your file 
+git commit -m 
+
+#command to chose your bransh
+git branch -M main
+
+#command to add a file to your githib repository 
+git remote add origin https://github.com/AhmedOmrani10/my.git
+git push -u origin main
